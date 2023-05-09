@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dcuadrag
+ *
+ */
+module Singleton {
+}
